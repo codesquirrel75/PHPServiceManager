@@ -1,0 +1,811 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"cmms",
+				"cmms"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"rea",
+				"React"
+			],
+			[
+				"border-ra",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"i",
+				"inherit\tfont-style"
+			],
+			[
+				"fons",
+				"font-style\tproperty"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"na",
+				"nav-link"
+			],
+			[
+				"nav",
+				"nav-item"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"h",
+				"h5\tTag"
+			],
+			[
+				"ac",
+				"activepage"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"form-",
+				"form-control"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"col",
+				"color-primary-4"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"jq",
+				"jquery"
+			],
+			[
+				"s",
+				"setupEventListeners"
+			],
+			[
+				"in",
+				"inputBtn"
+			],
+			[
+				"DOM",
+				"DOMstrings"
+			],
+			[
+				"a",
+				"add__btn"
+			],
+			[
+				"UI",
+				"UICtrl"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"bud",
+				"budgetCtrl"
+			],
+			[
+				"ne",
+				"newIndex"
+			],
+			[
+				"ans",
+				"answers"
+			],
+			[
+				"answ",
+				"answer"
+			],
+			[
+				"qu",
+				"questions"
+			],
+			[
+				"poss",
+				"possibleAnswers"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"emi",
+				"emilyFormal"
+			],
+			[
+				"g",
+				"grid-row\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"re",
+				"retirementAgeUS"
+			],
+			[
+				"de",
+				"designerQuestion"
+			],
+			[
+				"ma",
+				"maxHeartRate"
+			],
+			[
+				"arr",
+				"arrayCalc"
+			],
+			[
+				"dice",
+				"dice-0"
+			],
+			[
+				"pre",
+				"previousRoll"
+			],
+			[
+				"player-",
+				"player-0-panel"
+			],
+			[
+				"acti",
+				"activePlayer"
+			],
+			[
+				"roun",
+				"roundScore"
+			],
+			[
+				"current",
+				"current-0"
+			],
+			[
+				"diceDo",
+				"diceDOM"
+			],
+			[
+				"year",
+				"yearOfBirth"
+			],
+			[
+				"play",
+				"playerOneScore"
+			],
+			[
+				"Play",
+				"playerThreeScore"
+			],
+			[
+				"PLayer",
+				"playerTwoScore"
+			],
+			[
+				"player",
+				"playerTwoScore"
+			],
+			[
+				"pl",
+				"playerThreeScore"
+			],
+			[
+				"playerT",
+				"playerThreeHeight"
+			],
+			[
+				"pla",
+				"playerOneScore"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"True",
+				"True"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"res",
+				"restaurant"
+			],
+			[
+				"decl",
+				"declarative_base"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/opt/lampp/htdocs/serviceManager/index.php",
+			"settings":
+			{
+				"buffer_size": 333,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 1736,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "content.php",
+			"settings":
+			{
+				"buffer_size": 462,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "content.php"
+			}
+		},
+		{
+			"file": "leftNav.php",
+			"settings":
+			{
+				"buffer_size": 1535,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 2435,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/opt/lampp/htdocs/serviceManager/css/main.css",
+			"settings":
+			{
+				"buffer_size": 662,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"npm start",
+			"ls",
+			"pwd",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/lampp/htdocs/serviceManager"
+	],
+	"file_history":
+	[
+		"/opt/lampp/htdocs/serviceManager/templates/header.php",
+		"/opt/lampp/htdocs/serviceManager/css/main.css",
+		"/opt/lampp/htdocs/serviceManager/templates/leftNav.php",
+		"/opt/lampp/htdocs/CMMS/application/controllers/Pages.php",
+		"/opt/lampp/htdocs/CMMS/application/views/templates/header.php",
+		"/opt/lampp/htdocs/CMMS/application/views/pages/dashboard.php",
+		"/opt/lampp/htdocs/CMMS/application/controllers/Dashboard.php",
+		"/opt/lampp/htdocs/CMMS/application/views/templates/footer.php",
+		"/opt/lampp/htdocs/serviceManager/footer.php",
+		"/opt/lampp/htdocs/serviceManager/header.php",
+		"/opt/lampp/htdocs/CMMS/application/controllers/News.php",
+		"/opt/lampp/htdocs/CMMS/application/views/index.php",
+		"/opt/lampp/htdocs/CMMS/application/config/routes.php",
+		"/opt/lampp/htdocs/CMMS/application/models/News_model.php",
+		"/opt/lampp/htdocs/CMMS/application/config/database.php",
+		"/opt/lampp/htdocs/CMMS/application/views/pages/home.php",
+		"/opt/lampp/htdocs/CMMS/application/views/pages/about.php",
+		"/opt/lampp/htdocs/CMMS/application/views/welcome_message.php",
+		"/opt/lampp/htdocs/CMMS/application/controllers/Welcome.php",
+		"/opt/lampp/htdocs/CMMS/readme.rst",
+		"/opt/lampp/htdocs/cmms/config/routes.yaml",
+		"/opt/lampp/htdocs/cmms/composer.json",
+		"/opt/lampp/htdocs/cmms/src/Controller/ArticleController.php",
+		"/opt/lampp/htdocs/cmms/src/Controller/AbstractController.php",
+		"/opt/lampp/htdocs/cmms/src/Controller/untitled.yaml",
+		"/opt/lampp/htdocs/serviceManager/scripts/SignIn.php",
+		"/opt/lampp/htdocs/CMMS/readme.md",
+		"/opt/lampp/htdocs/CMMS/vendor/symfony/console/Output/Output.php",
+		"/opt/lampp/htdocs/CMMS/vendor/nunomaduro/collision/src/Writer.php",
+		"/opt/lampp/htdocs/ecocmms/index.php",
+		"/opt/lampp/htdocs/ecocmms/nav.php",
+		"/opt/lampp/htdocs/ecocmms/config.inc.php",
+		"/opt/lampp/htdocs/ecocmms/README.txt",
+		"/opt/lampp/htdocs/ecocmms/menu.inc.php",
+		"/opt/lampp/htdocs/ecocmms/auth.php",
+		"/opt/lampp/htdocs/ecocmms/ab/readme.html",
+		"/opt/lampp/htdocs/ecocmms/start.php",
+		"/opt/lampp/htdocs/react-practice/assignment1/src/UserInput/UserInput.js",
+		"/opt/lampp/htdocs/react-practice/assignment1/src/UserOutput/UserOutput.js",
+		"/opt/lampp/htdocs/react-practice/assignment1/src/App.js",
+		"/opt/lampp/htdocs/cmms/CMMS-Core-API/bootstrap/autoload.php",
+		"/opt/lampp/htdocs/cmms/CMMS-Core-API/.htaccess",
+		"/opt/lampp/htdocs/react-practice/src/Person/Person.js",
+		"/opt/lampp/htdocs/react-practice/src/Person/Person.css",
+		"/opt/lampp/htdocs/react-practice/src/App.js",
+		"/home/ken/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/opt/lampp/htdocs/react-practice/src/App.css",
+		"/opt/lampp/htdocs/practice/main.css",
+		"/opt/lampp/htdocs/practice/index.html",
+		"/opt/lampp/htdocs/javascript30/drumKit/style.css",
+		"/opt/lampp/htdocs/javascript30/drumKit/index.html",
+		"/home/ken/Documents/courses/6-Budgety/style.css",
+		"/home/ken/Documents/courses/6-Budgety/app.js",
+		"/home/ken/Documents/courses/6-Budgety/index.html",
+		"/opt/lampp/htdocs/serviceManager/index.php",
+		"/opt/lampp/htdocs/serviceManager/.htaccess",
+		"/opt/lampp/htdocs/serviceManager/scripts/SignOut.php",
+		"/opt/lampp/htdocs/serviceManager/css/signin.css",
+		"/opt/lampp/htdocs/serviceManager/signIn.php",
+		"/opt/lampp/htdocs/serviceManager/jobNumbers.php",
+		"/opt/lampp/htdocs/serviceManager/manPower.php",
+		"/opt/lampp/htdocs/serviceManager/workOrders.php",
+		"/opt/lampp/htdocs/serviceManager/scripts/signin.php",
+		"/opt/lampp/htdocs/serviceManager/scripts/signOut.php",
+		"/opt/lampp/htdocs/serviceManager/signin.php",
+		"/home/ken/Documents/courses/4-DOM-Pig-Game/app.js",
+		"/opt/lampp/htdocs/serviceManager/template.php",
+		"/opt/lampp/htdocs/serviceManager/index2.php",
+		"/opt/lampp/htdocs/formbuilder/index.php",
+		"/opt/lampp/htdocs/serviceManager/scripts/navFunctions.php",
+		"/opt/lampp/htdocs/serviceManager/index.html",
+		"/home/ken/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/ken/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/opt/lampp/htdocs/serviceManager/css/bootstrap.css",
+		"/opt/lampp/htdocs/serviceManager/css/bootstrap.min.css",
+		"/home/ken/Documents/projects/taxi/index.html",
+		"/home/ken/Documents/projects/taxi/css/bootstrap.css",
+		"/home/ken/Documents/courses/5-Advanced-JS/script.js",
+		"/home/ken/Documents/courses/5-Advanced-JS/challenge_4.js",
+		"/home/ken/Documents/courses/5-Advanced-JS/index.html",
+		"/home/ken/Documents/courses/4-DOM-Pig-Game/index.html",
+		"/home/ken/Documents/courses/4-DOM-Pig-Game/style.css",
+		"/home/ken/Documents/courses/3-How-JS-Works/index.html",
+		"/home/ken/Documents/courses/3-How-JS-Works/script.js",
+		"/home/ken/Documents/courses/2-JS-Basics/index.html",
+		"/home/ken/Documents/courses/2-JS-Basics/challenge2.js",
+		"/home/ken/Documents/courses/2-JS-Basics/script.js",
+		"/opt/lampp/htdocs/formbuilder/scripts/saveForm.php",
+		"/home/ken/Documents/courses/2-JS-Basics/codeChallenge1.html",
+		"/home/ken/Documents/courses/2-JS-Basics/challenge1.js",
+		"/home/ken/myProjet/screens/HomeScreen.js",
+		"/home/ken/HelloWorld/App.js",
+		"/home/ken/HelloWorld/index.js",
+		"/home/ken/AwesomeProject/App.js",
+		"/opt/lampp/htdocs/formbuilder/scripts/removeSection.php",
+		"/opt/lampp/htdocs/formbuilder/scripts/editsection.php",
+		"/opt/lampp/htdocs/formbuilder/scripts/functions.php",
+		"/opt/lampp/htdocs/formbuilder/scripts/updateProperties.php",
+		"/opt/lampp/htdocs/formbuilder/indexBackup.php",
+		"/home/ken/Documents/projects/menuWizard/wp-content/plugins/awesomplugin/awesomeplugin.php",
+		"/home/ken/Documents/projects/menuWizard/wp-content/themes/twentyseventeen/functions.php",
+		"/home/ken/Documents/projects/menuWizard/wp-content/plugins/meal-planner-pro/mpprecipe.php",
+		"/home/ken/Documents/projects/menuWizard/index.php",
+		"/home/ken/Documents/projects/menuWizard/wp-content/themes/contact-form/style.css",
+		"/home/ken/Documents/projects/menuWizard/wp-content/themes/contact-form/page-contact-us.php",
+		"/home/ken/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ken/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/ken/.config/sublime-text-3/Packages/User/Open in browser.sublime-build ",
+		"/home/ken/.config/sublime-text-3/Packages/User/browserbuild.py",
+		"/home/ken/Documents/projects/kenndysSite/index.html",
+		"/opt/lampp/htdocs/codesquirrel/content.php",
+		"/opt/lampp/htdocs/codesquirrel/header.php",
+		"/opt/lampp/htdocs/codesquirrel/index.php",
+		"/opt/lampp/htdocs/codesquirrel/footer.php",
+		"/opt/lampp/htdocs/codesquirrel/main.css",
+		"/opt/lampp/htdocs/codesquirrel/.htaccess",
+		"/opt/lampp/htdocs/codesquirrel/bootstrap-3.3.7-dist/css/bootstrap.min.css.map",
+		"/opt/lampp/htdocs/codesquirrel/untitled",
+		"/home/ken/Documents/projects/javascript/javascript.html",
+		"/home/ken/Documents/projects/javascript/main.css",
+		"/home/ken/fullstack-nanodegree-vm/vagrant/Menu/database_setup.py",
+		"/home/ken/MyResume/frontend-nanodegree-resume/index.html",
+		"/home/ken/MyResume/frontend-nanodegree-resume/js/resumeBuilder.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"disabled",
+			"ml",
+			"fixed-bottom",
+			"nav-dark",
+			"dark"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/opt/lampp/htdocs/serviceManager/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1699,
+								1699
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								232,
+								232
+							]
+						],
+						"settings":
+						{
+							"auto_name": "content.php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "leftNav.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1535,
+								1535
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2435,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/opt/lampp/htdocs/serviceManager/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								660,
+								660
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "serviceManager.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"s",
+				"sketch.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

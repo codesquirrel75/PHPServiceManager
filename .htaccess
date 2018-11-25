@@ -1,0 +1,12 @@
+Options +FollowSymLinks
+RewriteEngine On
+ 
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+ 
+RewriteRule ^dashboard/*$ ./index.php
+RewriteRule ^jobNumbers/*$ ./jobNumbers.php
+RewriteRule ^workOrders/*$ ./workOrders.php
+RewriteRule ^manPower/*$ ./manPower.php
+RewriteRule ^signIn/*$ ./signIn.php
+RewriteRule ^signOut/*$ ./scripts/SignOut.php

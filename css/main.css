@@ -1,0 +1,48 @@
+
+.color-primary-0 { color: #00406A }	/* Main Primary color */
+.color-primary-1 { color: #0066A8 } /*Lightest color */
+.color-primary-2 { color: #005186 } /*light hover*/
+.color-primary-3 { color: #002F4E } /*dark hover*/
+.color-primary-4 { color: #00192A } /*darkest color*/
+
+body{
+	padding-top: 56px;
+	color: #00192A;
+}
+
+
+.navbar{
+	background-color: #00192A !important;
+	color: #ffffff !important;
+}
+
+.navbar-brand{
+	color: #ffffff !important;
+}
+
+.nav-item{
+	color: #ffffff !important;
+}
+
+.nav-link{
+	color: #ffffff !important;
+}
+
+.active{
+	
+	background-color: #002F4E !important;
+}
+
+.sidebar{
+	padding: 10px !important;
+	height: 600px;
+
+}
+
+.sidebar .active{
+	background-color: #00406A !important;
+	color: #ffffff !important;
+}
+
+
+
